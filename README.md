@@ -6,6 +6,7 @@ Au clic sur "Valider" un message s'affiche en fonction du booléen (toujours à 
 
 
 npm install
+
 npm start
 
   "dependencies": {
