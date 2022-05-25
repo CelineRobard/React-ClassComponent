@@ -19,3 +19,8 @@ npm start
     "react-native": "^0.68.2",
     "react-native-web": "^0.17.7"
   }
+
+![Screenshot_20220525-132533](https://user-images.githubusercontent.com/88492160/170330066-4b74e7f9-6159-46d6-ad97-17c0e4d7922b.png)
+
+
+![Screenshot_20220525-133432](https://user-images.githubusercontent.com/88492160/170330095-95d98ef1-28d1-46e0-ac03-6f0dd43628bc.png)
